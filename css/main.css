@@ -8,3 +8,14 @@ body {
   text-align: center;
   cursor: default;
 }
+
+body ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+body li {
+  margin-top: 1em;
+  text-align: center;
+}
